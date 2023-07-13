@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q73Bb26XK0fQIaeDEPxN4ix+rtirQxJQPCuTUPpjUVvTA4YGs/YqWYHwbAKWTcZNT8fwnYS5+1Be2rmzL6qYcw==",
+  "dgSpecHash": "icxm0VNwURj+RejZhbaU0OL+paWYqNRr9pDQkqlT4x1SVEKsaFfBIzXldlKzajpg1jl4T0vG02m/C+REXGgOeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\conor\\conor_code\\MyMicroservice\\MyMicroservice.csproj",
+  "projectFilePath": "C:\\Users\\conor\\conor_code\\MyMicroservice\\.NET-Microservice-Demo\\MyMicroservice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\conor\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\conor\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",

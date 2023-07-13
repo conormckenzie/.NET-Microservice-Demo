@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\conor\\conor_code\\MyMicroservice\\MyMicroservice.csproj": {}
+    "C:\\Users\\conor\\conor_code\\MyMicroservice\\.NET-Microservice-Demo\\MyMicroservice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\conor\\conor_code\\MyMicroservice\\MyMicroservice.csproj": {
+    "C:\\Users\\conor\\conor_code\\MyMicroservice\\.NET-Microservice-Demo\\MyMicroservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\conor\\conor_code\\MyMicroservice\\MyMicroservice.csproj",
+        "projectUniqueName": "C:\\Users\\conor\\conor_code\\MyMicroservice\\.NET-Microservice-Demo\\MyMicroservice.csproj",
         "projectName": "MyMicroservice",
-        "projectPath": "C:\\Users\\conor\\conor_code\\MyMicroservice\\MyMicroservice.csproj",
+        "projectPath": "C:\\Users\\conor\\conor_code\\MyMicroservice\\.NET-Microservice-Demo\\MyMicroservice.csproj",
         "packagesPath": "C:\\Users\\conor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\conor\\conor_code\\MyMicroservice\\obj\\",
+        "outputPath": "C:\\Users\\conor\\conor_code\\MyMicroservice\\.NET-Microservice-Demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\conor\\AppData\\Roaming\\NuGet\\NuGet.Config"
